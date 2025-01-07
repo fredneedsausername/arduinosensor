@@ -1,2 +1,3 @@
-# arduinosensor
-The code for my arduino sensors to periodically send data to my server
+# Project Arduino
+
+Here is the code for my arduino sensors to periodically send data to my server
